@@ -52,7 +52,7 @@ function App() {
         <Section id={navItems[0].href} title='VideoCreator "YANO SOTA"'>
           <div className="overflow-hidden rounded-2xl shadow-[0_20px_60px_rgba(0,0,0,0.6)]">
             <iframe
-              src="https://player.vimeo.com/video/1145338528?title=0&byline=0&portrait=0&badge=0&controls=0&autoplay=1&muted=1&loop=1"
+              src="https://player.vimeo.com/video/1145504393?title=0&byline=0&portrait=0&badge=0&controls=0&autoplay=1&muted=1&loop=1"
               width="1920"
               height="1080"
               allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"
